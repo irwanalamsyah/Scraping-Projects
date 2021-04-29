@@ -5,7 +5,8 @@
 `Scrapy 2.5.0`
 
 ### Let's collect the best movies from 2020
-* Supposing that you already have python in your computer.
+* Supposing that you already have python in your computer. 
+  In this case I'm using Python 3.8.2
 
 ### Setup
 1 - Install requirements
