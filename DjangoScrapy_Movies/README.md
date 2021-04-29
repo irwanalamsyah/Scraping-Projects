@@ -18,16 +18,6 @@ $ pip install -r requirements.txt
 $ python manage.py migrate
 ````
 
-3. Install django 3.8.2
-```
-$ pip install Django==3.8.2
-```
-
-4. Create app Movie
-```
-$ python manage.py startapp movie
-```
-
 ## Start the project
 Running Django
 ````
