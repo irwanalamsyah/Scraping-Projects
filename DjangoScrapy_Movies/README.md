@@ -27,3 +27,8 @@ $ pip install Django==3.8.2
 $ python manage.py startapp movie
 ```
 
+## Start the project
+Running Django
+````
+$ python manage.py runserver
+````
